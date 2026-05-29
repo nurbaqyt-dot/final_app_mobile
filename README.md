@@ -137,6 +137,9 @@ service cloud.firestore {
 - Rounded cards (`28px` radius) throughout
 
 ---
+##Screenshot
+![image alt](https://raw.githubusercontent.com/nurbaqyt-dot/final_app_mobile/a64233e3a3d740fe9dc6841b7fdd1cd2396a882b/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-29%20%D0%B2%2008.54.36.png)
+---
 
 ## Developer
 
